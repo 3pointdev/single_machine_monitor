@@ -6,7 +6,7 @@ export default function LoadingIndicator() {
 
   return (
     <div
-      className={`z-50 ${
+      className={`!z-50 relative ${
         state.activeCount > 0
           ? "opacity-90 pointer-events-auto"
           : "opacity-0 pointer-events-none"

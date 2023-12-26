@@ -10,84 +10,36 @@ body {
   overflow: hidden;
 }
 
-h1,h2,h3,h4 {
+h1,
+h2,
+h3,
+h4 {
   margin: 0;
   padding: 0;
 }
 
-@keyframes circle {
-  0% {
-    top: 60px;
-    height: 5px;
-    border-radius: 50px 50px 25px 25px;
-    transform: scaleX(1.7);
-  }
-  40% {
-    height: 20px;
-    border-radius: 50%;
-    transform: scaleX(1);
-  }
-  100% {
-    top: 0%;
-  }
+th,
+td {
+  border: 0.5px solid white;
+  text-align: center;
 }
 
-@keyframes shadow {
-  0% {
-    transform: scaleX(1.5);
-  }
-  40% {
-    transform: scaleX(1);
-    opacity: 0.7;
-  }
-  100% {
-    transform: scaleX(0.2);
-    opacity: 0.4;
-  }
+.ACTIVE {
+  color: #3ee156;
+}
+.POWER_OFF {
+  color: #ffffff;
+}
+.READY,
+.STOPPED,
+.INTERRUPTED {
+  color: #ffaf69;
+}
+.TRIGGERED {
+  color: #ff2d2d;
 }
 
-.animate-circle {
-  animation: circle 0.5s alternate infinite ease;
-}
-
-.animate-shadow {
-  animation: shadow 0.5s alternate infinite ease;
-}
-
-/* Change Autocomplete styles in Chrome*/
-input:-webkit-autofill,
-input:-webkit-autofill:hover,
-input:-webkit-autofill:focus,
-textarea:-webkit-autofill,
-textarea:-webkit-autofill:hover,
-textarea:-webkit-autofill:focus,
-select:-webkit-autofill,
-select:-webkit-autofill:hover,
-select:-webkit-autofill:focus {
-  -webkit-text-fill-color: white;
-  -webkit-box-shadow: 0 0 0px 1000px #253341 inset;
-  box-shadow: 0 0 0px 1000px #253341 inset;
-  transition: background-color 5000s ease-in-out 0s;
-}
-
-.react-datepicker {
-  background: #f0f0f0 !important;
-}
-
-.react-datepicker__month {
-  background: #ffffff !important;
-  border-radius: 8px;
-  padding: 8px;
-}
-
-.react-datepicker > * {
-  margin-top:8px;
-}
-
-.react-datepicker__triangle {
-  display: none !important;
-}
-
-.react-datepicker-wrapper {
-  width: 100% !important;
+.instrument_panel {
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
 }

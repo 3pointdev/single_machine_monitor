@@ -1,10 +1,16 @@
+import { Dispatch } from "redux";
+import { insertInstalledTransmitters } from "./fetchInitialize";
+
 let socket: WebSocket;
 
-export const socketConnect = (onMessage: (any: any) => any) => {
+export const socketConnect = (
+  target: number,
+  onMessage: (any: any) => any
+): any => {
   socket = new WebSocket(
     `${process.env.NEXT_PUBLIC_WEBSOCKET_URL}${window.localStorage.getItem(
       "sender"
-    )}?ent=${window.localStorage.getItem("enterprise")}&view=noti`,
+    )}?ent=${window.localStorage.getItem("enterprise")}&view=mid:${target}`,
     "transmitter"
   );
   socket.onopen = socketOnOpen;
@@ -12,7 +18,9 @@ export const socketConnect = (onMessage: (any: any) => any) => {
   socket.onerror = socketOnError;
   socket.onclose = socketOnClose;
 
-  return () => {};
+  return (dispatch: Dispatch) => {
+    dispatch(insertInstalledTransmitters());
+  };
 };
 
 export const socketOnOpen = () => {
@@ -29,5 +37,4 @@ export const socketDisconnect = () => {
   if (socket?.readyState === 1) {
     return () => socket.close();
   }
-  return () => {};
 };

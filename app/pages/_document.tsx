@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="ko">
       <Head />
       <body>
-        <title>바로팩토리 코드뷰어</title>
+        <title>바로팩토리 기계 모니터링</title>
         <Main />
         <NextScript />
       </body>

@@ -1,28 +1,20 @@
-import { ApiModule } from "./api.module";
-
 interface IProps {
   onMessage: (response: MessageEvent) => void;
 }
 
 export class SocketModule {
-  protected api: ApiModule;
   public socket: WebSocket;
   public url: string;
   public readyState: number;
-  public pingIntervalSeconds: number = 20000;
-  public intervalId: any;
-  public token: string = "";
   public sender: string;
   public onMessage: (response: MessageEvent) => void;
 
   constructor({ onMessage }: IProps) {
-    this.api = ApiModule.getInstance();
     this.sender = window.localStorage.sender;
     this.url = `${process.env.NEXT_PUBLIC_WEBSOCKET_URL}${
       this.sender
     }?ent=${window.localStorage.getItem("enterprise")}&view=noti`;
     this.connect = this.connect.bind(this);
-    this.token = window.localStorage.token;
     this.onMessage = onMessage;
   }
 

@@ -1,18 +1,27 @@
+import Machine from "components/machine/machine";
 import { useEffect } from "react";
-import { socketConnect, socketDisconnect } from "src/redux/actions/socket";
-import { useAppDispatch } from "src/redux/reduxHook";
+import MachineDto from "src/dto/machine/machine.dto";
+import { getMachineList } from "src/redux/actions/fetchMachine";
+import { selectMachineListState } from "src/redux/reducers/machine/machineListReducer";
+import { dataReset } from "src/redux/reducers/machine/machineReducer";
+import { useAppDispatch, useAppSelector } from "src/redux/reduxHook";
 
 export default function Home() {
   const dispatch = useAppDispatch();
+  const state = useAppSelector(selectMachineListState);
   useEffect(() => {
-    dispatch(socketConnect(() => {}));
+    dispatch(getMachineList());
 
     return () => {
-      dispatch(socketDisconnect());
+      dispatch(dataReset());
     };
   }, []);
 
   return (
-    <article className="bg-gray-300 dark:bg-gray-800 w-screen h-[calc(100vh-60px)] px-4 py-8 overflow-hidden"></article>
+    <article className="text-gray-800 dark:text-gray-300 bg-gray-300 dark:bg-gray-800 w-screen h-[calc(100vh-60px)] p-4 overflow-hidden grid grid-cols-4 gap-4">
+      {state.list.map((machine: MachineDto) => {
+        return <Machine data={machine} key={`${machine.mid}_${machine.id}`} />;
+      })}
+    </article>
   );
 }

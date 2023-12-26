@@ -1,0 +1,1181 @@
+{
+  "time": {
+    "lunchTime": ["2023-12-15 12:30:00", "2023-12-15 13:30:00"],
+    "breakTime": [
+      "2023-12-15 10:20:00",
+      "2023-12-15 10:30:00",
+      "2023-12-15 15:20:00",
+      "2023-12-15 15:30:00"
+    ]
+  },
+  "partA": [
+    {
+      "planCount": 289,
+      "partCount": 3,
+      "startedAt": "2023-12-15 08:14:06",
+      "endedAt": "2023-12-15 08:16:01",
+      "idleTime": 0
+    },
+    {
+      "planCount": 289,
+      "partCount": 4,
+      "startedAt": "2023-12-15 08:17:13",
+      "endedAt": "2023-12-15 08:19:09",
+      "idleTime": 72
+    },
+    {
+      "planCount": 289,
+      "partCount": 5,
+      "startedAt": "2023-12-15 08:19:46",
+      "endedAt": "2023-12-15 08:21:41",
+      "idleTime": 37
+    },
+    {
+      "planCount": 289,
+      "partCount": 6,
+      "startedAt": "2023-12-15 08:21:59",
+      "endedAt": "2023-12-15 08:23:55",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 7,
+      "startedAt": "2023-12-15 08:24:43",
+      "endedAt": "2023-12-15 08:26:35",
+      "idleTime": 48
+    },
+    {
+      "planCount": 289,
+      "partCount": 8,
+      "startedAt": "2023-12-15 08:26:56",
+      "endedAt": "2023-12-15 08:28:44",
+      "idleTime": 21
+    },
+    {
+      "planCount": 289,
+      "partCount": 9,
+      "startedAt": "2023-12-15 08:29:48",
+      "endedAt": "2023-12-15 08:31:37",
+      "idleTime": 64
+    },
+    {
+      "planCount": 289,
+      "partCount": 10,
+      "startedAt": "2023-12-15 08:32:05",
+      "endedAt": "2023-12-15 08:33:54",
+      "idleTime": 28
+    },
+    {
+      "planCount": 289,
+      "partCount": 11,
+      "startedAt": "2023-12-15 08:34:16",
+      "endedAt": "2023-12-15 08:36:05",
+      "idleTime": 22
+    },
+    {
+      "planCount": 289,
+      "partCount": 12,
+      "startedAt": "2023-12-15 08:36:59",
+      "endedAt": "2023-12-15 08:38:47",
+      "idleTime": 54
+    },
+    {
+      "planCount": 289,
+      "partCount": 13,
+      "startedAt": "2023-12-15 08:39:08",
+      "endedAt": "2023-12-15 08:40:57",
+      "idleTime": 21
+    },
+    {
+      "planCount": 289,
+      "partCount": 14,
+      "startedAt": "2023-12-15 08:41:16",
+      "endedAt": "2023-12-15 08:43:05",
+      "idleTime": 19
+    },
+    {
+      "planCount": 289,
+      "partCount": 15,
+      "startedAt": "2023-12-15 08:43:24",
+      "endedAt": "2023-12-15 08:45:13",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 16,
+      "startedAt": "2023-12-15 08:46:12",
+      "endedAt": "2023-12-15 08:48:01",
+      "idleTime": 59
+    },
+    {
+      "planCount": 289,
+      "partCount": 17,
+      "startedAt": "2023-12-15 08:48:33",
+      "endedAt": "2023-12-15 08:50:22",
+      "idleTime": 32
+    },
+    {
+      "planCount": 289,
+      "partCount": 18,
+      "startedAt": "2023-12-15 08:50:43",
+      "endedAt": "2023-12-15 08:52:32",
+      "idleTime": 21
+    },
+    {
+      "planCount": 289,
+      "partCount": 19,
+      "startedAt": "2023-12-15 08:53:29",
+      "endedAt": "2023-12-15 08:55:17",
+      "idleTime": 57
+    },
+    {
+      "planCount": 289,
+      "partCount": 20,
+      "startedAt": "2023-12-15 08:55:38",
+      "endedAt": "2023-12-15 08:57:27",
+      "idleTime": 21
+    },
+    {
+      "planCount": 289,
+      "partCount": 21,
+      "startedAt": "2023-12-15 08:57:46",
+      "endedAt": "2023-12-15 08:59:35",
+      "idleTime": 19
+    },
+    {
+      "planCount": 289,
+      "partCount": 22,
+      "startedAt": "2023-12-15 08:59:52",
+      "endedAt": "2023-12-15 09:01:41",
+      "idleTime": 17
+    },
+    {
+      "planCount": 289,
+      "partCount": 23,
+      "startedAt": "2023-12-15 09:02:11",
+      "endedAt": "2023-12-15 09:04:00",
+      "idleTime": 30
+    },
+    {
+      "planCount": 289,
+      "partCount": 24,
+      "startedAt": "2023-12-15 09:04:25",
+      "endedAt": "2023-12-15 09:06:16",
+      "idleTime": 25
+    },
+    {
+      "planCount": 289,
+      "partCount": 25,
+      "startedAt": "2023-12-15 09:07:06",
+      "endedAt": "2023-12-15 09:08:54",
+      "idleTime": 50
+    },
+    {
+      "planCount": 289,
+      "partCount": 26,
+      "startedAt": "2023-12-15 09:09:22",
+      "endedAt": "2023-12-15 09:11:10",
+      "idleTime": 28
+    },
+    {
+      "planCount": 289,
+      "partCount": 27,
+      "startedAt": "2023-12-15 09:11:30",
+      "endedAt": "2023-12-15 09:13:19",
+      "idleTime": 19
+    },
+    {
+      "planCount": 289,
+      "partCount": 28,
+      "startedAt": "2023-12-15 09:13:37",
+      "endedAt": "2023-12-15 09:15:26",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 29,
+      "startedAt": "2023-12-15 09:15:50",
+      "endedAt": "2023-12-15 09:17:38",
+      "idleTime": 23
+    },
+    {
+      "planCount": 289,
+      "partCount": 30,
+      "startedAt": "2023-12-15 09:17:57",
+      "endedAt": "2023-12-15 09:19:45",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 31,
+      "startedAt": "2023-12-15 09:20:06",
+      "endedAt": "2023-12-15 09:21:55",
+      "idleTime": 21
+    },
+    {
+      "planCount": 289,
+      "partCount": 32,
+      "startedAt": "2023-12-15 09:22:15",
+      "endedAt": "2023-12-15 09:24:04",
+      "idleTime": 20
+    },
+    {
+      "planCount": 289,
+      "partCount": 33,
+      "startedAt": "2023-12-15 09:24:22",
+      "endedAt": "2023-12-15 09:26:11",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 34,
+      "startedAt": "2023-12-15 09:27:18",
+      "endedAt": "2023-12-15 09:29:07",
+      "idleTime": 67
+    },
+    {
+      "planCount": 289,
+      "partCount": 35,
+      "startedAt": "2023-12-15 09:29:24",
+      "endedAt": "2023-12-15 09:31:13",
+      "idleTime": 17
+    },
+    {
+      "planCount": 289,
+      "partCount": 36,
+      "startedAt": "2023-12-15 09:31:32",
+      "endedAt": "2023-12-15 09:33:21",
+      "idleTime": 19
+    },
+    {
+      "planCount": 289,
+      "partCount": 37,
+      "startedAt": "2023-12-15 09:34:57",
+      "endedAt": "2023-12-15 09:36:46",
+      "idleTime": 96
+    },
+    {
+      "planCount": 289,
+      "partCount": 38,
+      "startedAt": "2023-12-15 09:37:15",
+      "endedAt": "2023-12-15 09:39:03",
+      "idleTime": 29
+    },
+    {
+      "planCount": 289,
+      "partCount": 39,
+      "startedAt": "2023-12-15 09:39:31",
+      "endedAt": "2023-12-15 09:41:19",
+      "idleTime": 28
+    },
+    {
+      "planCount": 289,
+      "partCount": 40,
+      "startedAt": "2023-12-15 09:42:40",
+      "endedAt": "2023-12-15 09:44:29",
+      "idleTime": 81
+    },
+    {
+      "planCount": 289,
+      "partCount": 41,
+      "startedAt": "2023-12-15 09:44:51",
+      "endedAt": "2023-12-15 09:46:40",
+      "idleTime": 22
+    },
+    {
+      "planCount": 289,
+      "partCount": 42,
+      "startedAt": "2023-12-15 09:46:59",
+      "endedAt": "2023-12-15 09:48:48",
+      "idleTime": 20
+    },
+    {
+      "planCount": 289,
+      "partCount": 43,
+      "startedAt": "2023-12-15 09:49:06",
+      "endedAt": "2023-12-15 09:50:55",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 44,
+      "startedAt": "2023-12-15 09:51:10",
+      "endedAt": "2023-12-15 09:53:00",
+      "idleTime": 16
+    },
+    {
+      "planCount": 289,
+      "partCount": 45,
+      "startedAt": "2023-12-15 09:53:22",
+      "endedAt": "2023-12-15 09:55:12",
+      "idleTime": 23
+    },
+    {
+      "planCount": 289,
+      "partCount": 46,
+      "startedAt": "2023-12-15 09:55:34",
+      "endedAt": "2023-12-15 09:57:22",
+      "idleTime": 22
+    },
+    {
+      "planCount": 289,
+      "partCount": 47,
+      "startedAt": "2023-12-15 09:57:41",
+      "endedAt": "2023-12-15 09:59:30",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 48,
+      "startedAt": "2023-12-15 09:59:46",
+      "endedAt": "2023-12-15 10:01:35",
+      "idleTime": 17
+    }
+  ],
+  "partB": [
+    {
+      "planCount": 289,
+      "partCount": 49,
+      "startedAt": "2023-12-15 10:01:51",
+      "endedAt": "2023-12-15 10:03:40",
+      "idleTime": 0
+    },
+    {
+      "planCount": 289,
+      "partCount": 50,
+      "startedAt": "2023-12-15 10:05:31",
+      "endedAt": "2023-12-15 10:07:22",
+      "idleTime": 111
+    },
+    {
+      "planCount": 289,
+      "partCount": 51,
+      "startedAt": "2023-12-15 10:07:53",
+      "endedAt": "2023-12-15 10:09:42",
+      "idleTime": 32
+    },
+    {
+      "planCount": 289,
+      "partCount": 52,
+      "startedAt": "2023-12-15 10:10:02",
+      "endedAt": "2023-12-15 10:11:50",
+      "idleTime": 20
+    },
+    {
+      "planCount": 289,
+      "partCount": 53,
+      "startedAt": "2023-12-15 10:12:57",
+      "endedAt": "2023-12-15 10:14:45",
+      "idleTime": 66
+    },
+    {
+      "planCount": 289,
+      "partCount": 54,
+      "startedAt": "2023-12-15 10:15:04",
+      "endedAt": "2023-12-15 10:16:53",
+      "idleTime": 19
+    },
+    {
+      "planCount": 289,
+      "partCount": 55,
+      "startedAt": "2023-12-15 10:17:14",
+      "endedAt": "2023-12-15 10:19:03",
+      "idleTime": 21
+    },
+    {
+      "planCount": 289,
+      "partCount": 56,
+      "startedAt": "2023-12-15 10:19:20",
+      "endedAt": "2023-12-15 10:21:09",
+      "idleTime": 17
+    },
+    {
+      "planCount": 289,
+      "partCount": 57,
+      "startedAt": "2023-12-15 10:31:41",
+      "endedAt": "2023-12-15 10:33:30",
+      "idleTime": 632
+    },
+    {
+      "planCount": 289,
+      "partCount": 58,
+      "startedAt": "2023-12-15 10:34:08",
+      "endedAt": "2023-12-15 10:35:56",
+      "idleTime": 38
+    },
+    {
+      "planCount": 289,
+      "partCount": 59,
+      "startedAt": "2023-12-15 10:36:22",
+      "endedAt": "2023-12-15 10:38:11",
+      "idleTime": 26
+    },
+    {
+      "planCount": 289,
+      "partCount": 60,
+      "startedAt": "2023-12-15 10:38:30",
+      "endedAt": "2023-12-15 10:40:19",
+      "idleTime": 20
+    },
+    {
+      "planCount": 289,
+      "partCount": 61,
+      "startedAt": "2023-12-15 10:40:45",
+      "endedAt": "2023-12-15 10:42:33",
+      "idleTime": 26
+    },
+    {
+      "planCount": 289,
+      "partCount": 62,
+      "startedAt": "2023-12-15 10:42:51",
+      "endedAt": "2023-12-15 10:44:40",
+      "idleTime": 17
+    },
+    {
+      "planCount": 289,
+      "partCount": 63,
+      "startedAt": "2023-12-15 10:45:03",
+      "endedAt": "2023-12-15 10:46:52",
+      "idleTime": 23
+    },
+    {
+      "planCount": 289,
+      "partCount": 64,
+      "startedAt": "2023-12-15 10:47:14",
+      "endedAt": "2023-12-15 10:49:02",
+      "idleTime": 22
+    },
+    {
+      "planCount": 289,
+      "partCount": 65,
+      "startedAt": "2023-12-15 10:49:29",
+      "endedAt": "2023-12-15 10:51:18",
+      "idleTime": 27
+    },
+    {
+      "planCount": 289,
+      "partCount": 66,
+      "startedAt": "2023-12-15 10:52:29",
+      "endedAt": "2023-12-15 10:54:18",
+      "idleTime": 71
+    },
+    {
+      "planCount": 289,
+      "partCount": 67,
+      "startedAt": "2023-12-15 10:54:45",
+      "endedAt": "2023-12-15 10:56:35",
+      "idleTime": 28
+    },
+    {
+      "planCount": 289,
+      "partCount": 68,
+      "startedAt": "2023-12-15 10:57:22",
+      "endedAt": "2023-12-15 10:59:11",
+      "idleTime": 47
+    },
+    {
+      "planCount": 289,
+      "partCount": 69,
+      "startedAt": "2023-12-15 10:59:28",
+      "endedAt": "2023-12-15 11:01:17",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 70,
+      "startedAt": "2023-12-15 11:04:05",
+      "endedAt": "2023-12-15 11:05:54",
+      "idleTime": 168
+    },
+    {
+      "planCount": 289,
+      "partCount": 71,
+      "startedAt": "2023-12-15 11:06:38",
+      "endedAt": "2023-12-15 11:08:28",
+      "idleTime": 45
+    },
+    {
+      "planCount": 289,
+      "partCount": 72,
+      "startedAt": "2023-12-15 11:08:47",
+      "endedAt": "2023-12-15 11:10:36",
+      "idleTime": 19
+    },
+    {
+      "planCount": 289,
+      "partCount": 73,
+      "startedAt": "2023-12-15 11:11:11",
+      "endedAt": "2023-12-15 11:13:00",
+      "idleTime": 36
+    },
+    {
+      "planCount": 289,
+      "partCount": 74,
+      "startedAt": "2023-12-15 11:13:21",
+      "endedAt": "2023-12-15 11:15:09",
+      "idleTime": 21
+    },
+    {
+      "planCount": 289,
+      "partCount": 75,
+      "startedAt": "2023-12-15 11:15:27",
+      "endedAt": "2023-12-15 11:17:16",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 76,
+      "startedAt": "2023-12-15 11:17:40",
+      "endedAt": "2023-12-15 11:19:29",
+      "idleTime": 25
+    },
+    {
+      "planCount": 289,
+      "partCount": 77,
+      "startedAt": "2023-12-15 11:19:50",
+      "endedAt": "2023-12-15 11:21:39",
+      "idleTime": 21
+    },
+    {
+      "planCount": 289,
+      "partCount": 78,
+      "startedAt": "2023-12-15 11:22:10",
+      "endedAt": "2023-12-15 11:24:08",
+      "idleTime": 31
+    },
+    {
+      "planCount": 289,
+      "partCount": 79,
+      "startedAt": "2023-12-15 11:24:32",
+      "endedAt": "2023-12-15 11:26:21",
+      "idleTime": 24
+    },
+    {
+      "planCount": 289,
+      "partCount": 80,
+      "startedAt": "2023-12-15 11:27:40",
+      "endedAt": "2023-12-15 11:29:29",
+      "idleTime": 79
+    },
+    {
+      "planCount": 289,
+      "partCount": 81,
+      "startedAt": "2023-12-15 11:29:50",
+      "endedAt": "2023-12-15 11:31:39",
+      "idleTime": 21
+    },
+    {
+      "planCount": 289,
+      "partCount": 82,
+      "startedAt": "2023-12-15 11:33:33",
+      "endedAt": "2023-12-15 11:35:22",
+      "idleTime": 114
+    },
+    {
+      "planCount": 289,
+      "partCount": 83,
+      "startedAt": "2023-12-15 11:35:50",
+      "endedAt": "2023-12-15 11:38:04",
+      "idleTime": 28
+    },
+    {
+      "planCount": 289,
+      "partCount": 84,
+      "startedAt": "2023-12-15 11:38:31",
+      "endedAt": "2023-12-15 11:40:20",
+      "idleTime": 28
+    },
+    {
+      "planCount": 289,
+      "partCount": 85,
+      "startedAt": "2023-12-15 11:40:37",
+      "endedAt": "2023-12-15 11:42:26",
+      "idleTime": 17
+    },
+    {
+      "planCount": 289,
+      "partCount": 86,
+      "startedAt": "2023-12-15 11:42:43",
+      "endedAt": "2023-12-15 11:44:32",
+      "idleTime": 17
+    },
+    {
+      "planCount": 289,
+      "partCount": 87,
+      "startedAt": "2023-12-15 11:45:03",
+      "endedAt": "2023-12-15 11:46:52",
+      "idleTime": 31
+    },
+    {
+      "planCount": 289,
+      "partCount": 88,
+      "startedAt": "2023-12-15 11:47:14",
+      "endedAt": "2023-12-15 11:49:03",
+      "idleTime": 22
+    },
+    {
+      "planCount": 289,
+      "partCount": 89,
+      "startedAt": "2023-12-15 11:49:29",
+      "endedAt": "2023-12-15 11:51:18",
+      "idleTime": 26
+    },
+    {
+      "planCount": 289,
+      "partCount": 90,
+      "startedAt": "2023-12-15 11:51:45",
+      "endedAt": "2023-12-15 11:53:34",
+      "idleTime": 28
+    },
+    {
+      "planCount": 289,
+      "partCount": 91,
+      "startedAt": "2023-12-15 11:54:01",
+      "endedAt": "2023-12-15 11:55:50",
+      "idleTime": 26
+    },
+    {
+      "planCount": 289,
+      "partCount": 92,
+      "startedAt": "2023-12-15 11:56:11",
+      "endedAt": "2023-12-15 11:58:00",
+      "idleTime": 22
+    },
+    {
+      "planCount": 289,
+      "partCount": 93,
+      "startedAt": "2023-12-15 11:58:21",
+      "endedAt": "2023-12-15 12:00:10",
+      "idleTime": 21
+    },
+    {
+      "planCount": 289,
+      "partCount": 94,
+      "startedAt": "2023-12-15 12:00:32",
+      "endedAt": "2023-12-15 12:02:20",
+      "idleTime": 22
+    },
+    {
+      "planCount": 289,
+      "partCount": 95,
+      "startedAt": "2023-12-15 12:02:48",
+      "endedAt": "2023-12-15 12:04:37",
+      "idleTime": 27
+    },
+    {
+      "planCount": 289,
+      "partCount": 96,
+      "startedAt": "2023-12-15 12:05:02",
+      "endedAt": "2023-12-15 12:06:50",
+      "idleTime": 25
+    },
+    {
+      "planCount": 289,
+      "partCount": 97,
+      "startedAt": "2023-12-15 12:07:08",
+      "endedAt": "2023-12-15 12:08:57",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 98,
+      "startedAt": "2023-12-15 12:09:16",
+      "endedAt": "2023-12-15 12:11:04",
+      "idleTime": 19
+    },
+    {
+      "planCount": 289,
+      "partCount": 99,
+      "startedAt": "2023-12-15 12:11:22",
+      "endedAt": "2023-12-15 12:13:11",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 100,
+      "startedAt": "2023-12-15 12:13:34",
+      "endedAt": "2023-12-15 12:15:22",
+      "idleTime": 22
+    },
+    {
+      "planCount": 289,
+      "partCount": 101,
+      "startedAt": "2023-12-15 12:15:48",
+      "endedAt": "2023-12-15 12:18:09",
+      "idleTime": 25
+    },
+    {
+      "planCount": 289,
+      "partCount": 102,
+      "startedAt": "2023-12-15 12:18:32",
+      "endedAt": "2023-12-15 12:20:21",
+      "idleTime": 23
+    },
+    {
+      "planCount": 289,
+      "partCount": 103,
+      "startedAt": "2023-12-15 12:20:46",
+      "endedAt": "2023-12-15 12:22:35",
+      "idleTime": 25
+    },
+    {
+      "planCount": 289,
+      "partCount": 104,
+      "startedAt": "2023-12-15 12:22:59",
+      "endedAt": "2023-12-15 12:24:48",
+      "idleTime": 24
+    },
+    {
+      "planCount": 289,
+      "partCount": 106,
+      "startedAt": "2023-12-15 12:27:22",
+      "endedAt": "2023-12-15 12:29:11",
+      "idleTime": 27
+    }
+  ],
+  "partC": [
+    {
+      "planCount": 289,
+      "partCount": 107,
+      "startedAt": "2023-12-15 13:31:13",
+      "endedAt": "2023-12-15 13:33:02",
+      "idleTime": 0
+    },
+    {
+      "planCount": 289,
+      "partCount": 108,
+      "startedAt": "2023-12-15 13:33:42",
+      "endedAt": "2023-12-15 13:35:30",
+      "idleTime": 39
+    },
+    {
+      "planCount": 289,
+      "partCount": 109,
+      "startedAt": "2023-12-15 13:35:50",
+      "endedAt": "2023-12-15 13:37:38",
+      "idleTime": 19
+    },
+    {
+      "planCount": 289,
+      "partCount": 110,
+      "startedAt": "2023-12-15 13:38:17",
+      "endedAt": "2023-12-15 13:40:06",
+      "idleTime": 39
+    },
+    {
+      "planCount": 289,
+      "partCount": 111,
+      "startedAt": "2023-12-15 13:40:30",
+      "endedAt": "2023-12-15 13:42:19",
+      "idleTime": 25
+    },
+    {
+      "planCount": 289,
+      "partCount": 112,
+      "startedAt": "2023-12-15 13:43:24",
+      "endedAt": "2023-12-15 13:45:16",
+      "idleTime": 65
+    },
+    {
+      "planCount": 289,
+      "partCount": 113,
+      "startedAt": "2023-12-15 13:45:34",
+      "endedAt": "2023-12-15 13:47:23",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 114,
+      "startedAt": "2023-12-15 13:49:37",
+      "endedAt": "2023-12-15 13:51:25",
+      "idleTime": 133
+    },
+    {
+      "planCount": 289,
+      "partCount": 115,
+      "startedAt": "2023-12-15 13:51:49",
+      "endedAt": "2023-12-15 13:53:58",
+      "idleTime": 24
+    },
+    {
+      "planCount": 289,
+      "partCount": 116,
+      "startedAt": "2023-12-15 13:54:23",
+      "endedAt": "2023-12-15 13:56:12",
+      "idleTime": 25
+    },
+    {
+      "planCount": 289,
+      "partCount": 117,
+      "startedAt": "2023-12-15 13:57:40",
+      "endedAt": "2023-12-15 13:59:32",
+      "idleTime": 88
+    },
+    {
+      "planCount": 289,
+      "partCount": 118,
+      "startedAt": "2023-12-15 13:59:52",
+      "endedAt": "2023-12-15 14:01:41",
+      "idleTime": 20
+    },
+    {
+      "planCount": 289,
+      "partCount": 119,
+      "startedAt": "2023-12-15 14:02:00",
+      "endedAt": "2023-12-15 14:03:48",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 120,
+      "startedAt": "2023-12-15 14:05:12",
+      "endedAt": "2023-12-15 14:07:00",
+      "idleTime": 84
+    },
+    {
+      "planCount": 289,
+      "partCount": 121,
+      "startedAt": "2023-12-15 14:07:19",
+      "endedAt": "2023-12-15 14:09:08",
+      "idleTime": 19
+    },
+    {
+      "planCount": 289,
+      "partCount": 122,
+      "startedAt": "2023-12-15 14:09:57",
+      "endedAt": "2023-12-15 14:11:46",
+      "idleTime": 49
+    },
+    {
+      "planCount": 289,
+      "partCount": 123,
+      "startedAt": "2023-12-15 14:12:36",
+      "endedAt": "2023-12-15 14:14:28",
+      "idleTime": 51
+    },
+    {
+      "planCount": 289,
+      "partCount": 124,
+      "startedAt": "2023-12-15 14:14:50",
+      "endedAt": "2023-12-15 14:16:39",
+      "idleTime": 22
+    },
+    {
+      "planCount": 289,
+      "partCount": 125,
+      "startedAt": "2023-12-15 14:16:57",
+      "endedAt": "2023-12-15 14:18:46",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 126,
+      "startedAt": "2023-12-15 14:20:13",
+      "endedAt": "2023-12-15 14:22:02",
+      "idleTime": 87
+    },
+    {
+      "planCount": 289,
+      "partCount": 127,
+      "startedAt": "2023-12-15 14:22:22",
+      "endedAt": "2023-12-15 14:24:11",
+      "idleTime": 20
+    },
+    {
+      "planCount": 289,
+      "partCount": 128,
+      "startedAt": "2023-12-15 14:25:12",
+      "endedAt": "2023-12-15 14:27:01",
+      "idleTime": 62
+    },
+    {
+      "planCount": 289,
+      "partCount": 129,
+      "startedAt": "2023-12-15 14:28:02",
+      "endedAt": "2023-12-15 14:29:51",
+      "idleTime": 61
+    },
+    {
+      "planCount": 289,
+      "partCount": 130,
+      "startedAt": "2023-12-15 14:30:35",
+      "endedAt": "2023-12-15 14:32:23",
+      "idleTime": 44
+    },
+    {
+      "planCount": 289,
+      "partCount": 131,
+      "startedAt": "2023-12-15 14:32:42",
+      "endedAt": "2023-12-15 14:34:30",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 132,
+      "startedAt": "2023-12-15 14:35:17",
+      "endedAt": "2023-12-15 14:37:06",
+      "idleTime": 46
+    },
+    {
+      "planCount": 289,
+      "partCount": 133,
+      "startedAt": "2023-12-15 14:38:35",
+      "endedAt": "2023-12-15 14:40:24",
+      "idleTime": 90
+    },
+    {
+      "planCount": 289,
+      "partCount": 134,
+      "startedAt": "2023-12-15 14:41:21",
+      "endedAt": "2023-12-15 14:43:21",
+      "idleTime": 57
+    },
+    {
+      "planCount": 289,
+      "partCount": 135,
+      "startedAt": "2023-12-15 14:51:18",
+      "endedAt": "2023-12-15 14:53:07",
+      "idleTime": 476
+    },
+    {
+      "planCount": 289,
+      "partCount": 136,
+      "startedAt": "2023-12-15 14:56:13",
+      "endedAt": "2023-12-15 14:58:01",
+      "idleTime": 186
+    },
+    {
+      "planCount": 289,
+      "partCount": 137,
+      "startedAt": "2023-12-15 14:58:32",
+      "endedAt": "2023-12-15 15:00:21",
+      "idleTime": 31
+    },
+    {
+      "planCount": 289,
+      "partCount": 138,
+      "startedAt": "2023-12-15 15:06:12",
+      "endedAt": "2023-12-15 15:08:02",
+      "idleTime": 351
+    },
+    {
+      "planCount": 289,
+      "partCount": 139,
+      "startedAt": "2023-12-15 15:08:25",
+      "endedAt": "2023-12-15 15:10:14",
+      "idleTime": 23
+    },
+    {
+      "planCount": 289,
+      "partCount": 140,
+      "startedAt": "2023-12-15 15:11:14",
+      "endedAt": "2023-12-15 15:13:03",
+      "idleTime": 61
+    },
+    {
+      "planCount": 289,
+      "partCount": 141,
+      "startedAt": "2023-12-15 15:13:22",
+      "endedAt": "2023-12-15 15:15:11",
+      "idleTime": 19
+    },
+    {
+      "planCount": 289,
+      "partCount": 142,
+      "startedAt": "2023-12-15 15:15:44",
+      "endedAt": "2023-12-15 15:17:33",
+      "idleTime": 33
+    },
+    {
+      "planCount": 289,
+      "partCount": 143,
+      "startedAt": "2023-12-15 15:17:50",
+      "endedAt": "2023-12-15 15:19:38",
+      "idleTime": 17
+    },
+    {
+      "planCount": 289,
+      "partCount": 144,
+      "startedAt": "2023-12-15 15:31:38",
+      "endedAt": "2023-12-15 15:33:27",
+      "idleTime": 719
+    },
+    {
+      "planCount": 289,
+      "partCount": 145,
+      "startedAt": "2023-12-15 15:33:46",
+      "endedAt": "2023-12-15 15:35:35",
+      "idleTime": 20
+    },
+    {
+      "planCount": 289,
+      "partCount": 146,
+      "startedAt": "2023-12-15 15:36:15",
+      "endedAt": "2023-12-15 15:38:04",
+      "idleTime": 40
+    },
+    {
+      "planCount": 289,
+      "partCount": 147,
+      "startedAt": "2023-12-15 15:40:47",
+      "endedAt": "2023-12-15 15:42:36",
+      "idleTime": 163
+    },
+    {
+      "planCount": 289,
+      "partCount": 148,
+      "startedAt": "2023-12-15 15:45:25",
+      "endedAt": "2023-12-15 15:47:14",
+      "idleTime": 169
+    },
+    {
+      "planCount": 289,
+      "partCount": 149,
+      "startedAt": "2023-12-15 15:47:44",
+      "endedAt": "2023-12-15 15:49:33",
+      "idleTime": 30
+    },
+    {
+      "planCount": 289,
+      "partCount": 150,
+      "startedAt": "2023-12-15 15:50:45",
+      "endedAt": "2023-12-15 15:52:34",
+      "idleTime": 72
+    },
+    {
+      "planCount": 289,
+      "partCount": 151,
+      "startedAt": "2023-12-15 15:52:53",
+      "endedAt": "2023-12-15 15:54:43",
+      "idleTime": 20
+    },
+    {
+      "planCount": 289,
+      "partCount": 152,
+      "startedAt": "2023-12-15 15:55:07",
+      "endedAt": "2023-12-15 15:56:56",
+      "idleTime": 24
+    },
+    {
+      "planCount": 289,
+      "partCount": 153,
+      "startedAt": "2023-12-15 15:57:21",
+      "endedAt": "2023-12-15 15:59:10",
+      "idleTime": 25
+    },
+    {
+      "planCount": 289,
+      "partCount": 154,
+      "startedAt": "2023-12-15 15:59:28",
+      "endedAt": "2023-12-15 16:01:17",
+      "idleTime": 19
+    }
+  ],
+  "partD": [
+    {
+      "planCount": 289,
+      "partCount": 155,
+      "startedAt": "2023-12-15 16:01:38",
+      "endedAt": "2023-12-15 16:03:27",
+      "idleTime": 0
+    },
+    {
+      "planCount": 289,
+      "partCount": 156,
+      "startedAt": "2023-12-15 16:03:47",
+      "endedAt": "2023-12-15 16:05:36",
+      "idleTime": 20
+    },
+    {
+      "planCount": 289,
+      "partCount": 157,
+      "startedAt": "2023-12-15 16:05:54",
+      "endedAt": "2023-12-15 16:07:43",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 158,
+      "startedAt": "2023-12-15 16:08:03",
+      "endedAt": "2023-12-15 16:09:52",
+      "idleTime": 19
+    },
+    {
+      "planCount": 289,
+      "partCount": 159,
+      "startedAt": "2023-12-15 16:10:20",
+      "endedAt": "2023-12-15 16:12:09",
+      "idleTime": 28
+    },
+    {
+      "planCount": 289,
+      "partCount": 160,
+      "startedAt": "2023-12-15 16:12:26",
+      "endedAt": "2023-12-15 16:14:15",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 161,
+      "startedAt": "2023-12-15 16:15:20",
+      "endedAt": "2023-12-15 16:17:08",
+      "idleTime": 65
+    },
+    {
+      "planCount": 289,
+      "partCount": 162,
+      "startedAt": "2023-12-15 16:17:26",
+      "endedAt": "2023-12-15 16:19:15",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 163,
+      "startedAt": "2023-12-15 16:19:32",
+      "endedAt": "2023-12-15 16:21:20",
+      "idleTime": 17
+    },
+    {
+      "planCount": 289,
+      "partCount": 164,
+      "startedAt": "2023-12-15 16:21:43",
+      "endedAt": "2023-12-15 16:23:32",
+      "idleTime": 23
+    },
+    {
+      "planCount": 289,
+      "partCount": 165,
+      "startedAt": "2023-12-15 16:23:51",
+      "endedAt": "2023-12-15 16:25:39",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 166,
+      "startedAt": "2023-12-15 16:25:57",
+      "endedAt": "2023-12-15 16:27:46",
+      "idleTime": 18
+    },
+    {
+      "planCount": 289,
+      "partCount": 167,
+      "startedAt": "2023-12-15 16:28:02",
+      "endedAt": "2023-12-15 16:29:51",
+      "idleTime": 16
+    },
+    {
+      "planCount": 289,
+      "partCount": 168,
+      "startedAt": "2023-12-15 16:30:44",
+      "endedAt": "2023-12-15 16:32:33",
+      "idleTime": 53
+    },
+    {
+      "planCount": 289,
+      "partCount": 169,
+      "startedAt": "2023-12-15 16:33:03",
+      "endedAt": "2023-12-15 16:34:52",
+      "idleTime": 30
+    }
+  ]
+}

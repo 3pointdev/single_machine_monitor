@@ -33,8 +33,8 @@ export default function LoginView() {
   return (
     <section className="text-bg-gray-900 bg-gray-300 dark:bg-gray-800 dark:text-white w-screen min-h-screen h-full flex flex-col items-center justify-center gap-4">
       <div className="flex flex-col justify-center items-center min-w-1/5">
-        <h1 className="text-2xl font-bold">바로팩토리 코드뷰어</h1>
-        <p className="text-sm">NC 코드 확인, 비교</p>
+        <h1 className="text-2xl font-bold">바로팩토리 기계 모니터링</h1>
+        <p className="text-sm">단일 기계 모니터링</p>
       </div>
       <div className=" flex gap-2 items-center justify-center">
         <label htmlFor="username" className="flex-shrink-0 w-16">

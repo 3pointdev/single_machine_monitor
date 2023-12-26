@@ -4,6 +4,7 @@ import type { AppProps } from "next/app";
 import { useRouter } from "next/router";
 import { useEffect } from "react";
 import { Provider } from "react-redux";
+import "reflect-metadata";
 import { wrapper } from "src/redux/store";
 import "styles/globals.css";
 
@@ -23,7 +24,7 @@ export default function App({ Component, pageProps }: AppProps) {
     <Provider store={store}>
       <LoadingIndicator />
       <Header />
-      <Component {...props.pageProps} />
+      <Component {...props.pageProps} router={router} />
     </Provider>
   );
 }
