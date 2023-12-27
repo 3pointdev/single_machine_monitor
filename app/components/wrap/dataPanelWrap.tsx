@@ -54,7 +54,7 @@ export default function DataPanelWrap() {
             <h2 className="absolute p-4 top-0 left-0">S1 Load</h2>
             <img
               src="/panel.svg"
-              className="w-full h-[84%]"
+              className="w-full h-[85%]"
               alt="instrument_panel_background"
             />
             <img
@@ -78,7 +78,7 @@ export default function DataPanelWrap() {
             <h2 className="absolute p-4 top-0 left-0">X Load</h2>
             <img
               src="/panel.svg"
-              className="w-full h-[84%]"
+              className="w-full h-[85%]"
               alt="instrument_panel_background"
             />
             <img
@@ -103,7 +103,7 @@ export default function DataPanelWrap() {
             <h2 className="absolute p-4 top-0 left-0">Z Load</h2>
             <img
               src="/panel.svg"
-              className="w-full h-[84%]"
+              className="w-full h-[85%]"
               alt="instrument_panel_background"
             />
             <img
