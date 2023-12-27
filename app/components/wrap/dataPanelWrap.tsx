@@ -54,7 +54,7 @@ export default function DataPanelWrap() {
             <h2 className="absolute p-4 top-0 left-0">S1 Load</h2>
             <img
               src="/panel.svg"
-              className="w-full h-[85%]"
+              className="w-full h-full px-4"
               alt="instrument_panel_background"
             />
             <img
@@ -63,7 +63,7 @@ export default function DataPanelWrap() {
               alt="instrument_panel"
               ref={s1LoadRef}
             />
-            <div className="absolute flex w-full items-center justify-between pl-3">
+            <div className="absolute flex w-full items-center justify-between pl-3 bottom-2">
               <p>0</p>
               <p>150</p>
             </div>
@@ -78,7 +78,7 @@ export default function DataPanelWrap() {
             <h2 className="absolute p-4 top-0 left-0">X Load</h2>
             <img
               src="/panel.svg"
-              className="w-full h-[85%]"
+              className="w-full h-full px-4"
               alt="instrument_panel_background"
             />
             <img
@@ -87,7 +87,7 @@ export default function DataPanelWrap() {
               alt="instrument_panel"
               ref={xLoadRef}
             />
-            <div className="absolute flex w-full items-center justify-between pl-3">
+            <div className="absolute flex w-full items-center justify-between pl-3 bottom-2">
               <p>0</p>
               <p>150</p>
             </div>
@@ -103,7 +103,7 @@ export default function DataPanelWrap() {
             <h2 className="absolute p-4 top-0 left-0">Z Load</h2>
             <img
               src="/panel.svg"
-              className="w-full h-[85%]"
+              className="w-full h-full px-4"
               alt="instrument_panel_background"
             />
             <img
@@ -112,7 +112,7 @@ export default function DataPanelWrap() {
               alt="instrument_panel"
               ref={zLoadRef}
             />
-            <div className="absolute flex w-full items-center justify-between pl-3">
+            <div className="absolute flex w-full items-center justify-between pl-3 bottom-2">
               <p>0</p>
               <p>150</p>
             </div>
